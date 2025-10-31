@@ -18,7 +18,7 @@ It uses a manual linear regression model (Normal Equation) implemented from scra
   - Regression equation display  
   - Predicted vs Actual plot  
   - Interactive sliders for input
- 
+  - 
  ## 🖼 Project Preview
 
 <p align="center">
@@ -30,7 +30,6 @@ It uses a manual linear regression model (Normal Equation) implemented from scra
   <img src="https://github.com/ashish1106/Red-Wine-Quality/blob/main/images/pic3.png?raw=true" width="45%" alt="Screenshot 3"/>
   <img src="https://github.com/ashish1106/Red-Wine-Quality/blob/main/images/pic4.png?raw=true" width="45%" alt="Screenshot 4"/>
 </p>
-
 ## How to Run
 
 ```bash
