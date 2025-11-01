@@ -28,8 +28,10 @@ cd Red-Wine-Quality
 pip install -r requirements.txt
 streamlit run code.py
 ```
-Developed by-
-ASHISH KUMAR(AI-DS 1st yr)  PUSHKAR(AI-DS 1st yr) 
+**Developed by-**  
+ASHISH KUMAR (AI-DS 1st Yr)  
+PUSHKAR (AI-DS 1st Yr)
+
 
 
 
