@@ -19,17 +19,7 @@ It uses a manual linear regression model (Normal Equation) implemented from scra
   - Predicted vs Actual plot  
   - Interactive sliders for input
   - 
- ## 🖼 Project Preview
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashish1106/Red-Wine-Quality/main/images/pic1.png" width="45%" alt="Screenshot 1"/>
-  <img src="https://raw.githubusercontent.com/ashish1106/Red-Wine-Quality/main/images/pic2.png" width="45%" alt="Screenshot 2"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashish1106/Red-Wine-Quality/main/images/pic3.png" width="45%" alt="Screenshot 3"/>
-  <img src="https://raw.githubusercontent.com/ashish1106/Red-Wine-Quality/main/images/pic4.png" width="45%" alt="Screenshot 4"/>
-</p>
 ## How to Run
 
 ```bash
